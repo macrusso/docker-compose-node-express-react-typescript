@@ -1,4 +1,4 @@
-# Dockerrised React and Express blog app
+# Dockerised React and Express blog app
 
 ### Back-end
 
