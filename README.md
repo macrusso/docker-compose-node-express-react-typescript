@@ -8,7 +8,7 @@
 
 - [React Blog SPA](https://github.com/macrusso/blog-react-redux-saga-typescript)
 
-### Front-end
+### Data Base
 
 - MongoDB
 
