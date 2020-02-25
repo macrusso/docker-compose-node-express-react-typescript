@@ -1,0 +1,3 @@
+[submodule "services/api"]
+	path = services/api
+	url = git@github.com:macrusso/node-express-restful-api.git
