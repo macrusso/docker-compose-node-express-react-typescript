@@ -1,3 +1,6 @@
 [submodule "services/api"]
 	path = services/api
 	url = git@github.com:macrusso/node-express-restful-api.git
+[submodule "services/client"]
+	path = services/client
+	url = git@github.com:macrusso/blog-react-redux-saga-typescript.git
