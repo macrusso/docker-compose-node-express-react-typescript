@@ -2,6 +2,8 @@ version: "3"
 
 services:
   api:
+    env_file:
+      - ./services/api/.env
     build: ./services/api
     ports:
       - "8080:8080"
