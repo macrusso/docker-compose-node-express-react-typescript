@@ -1,10 +1,10 @@
 # Dockerised React and Express blog app
 
-### Back-end [![Build Status](https://travis-ci.com/macrusso/node-express-restful-api.svg?branch=master)](https://travis-ci.com/macrusso/node-express-restful-api)
+### Back-end ![macrusso](https://circleci.com/gh/macrusso/node-express-restful-api.svg?style=svg)
 
 - [Node-Express RESTful API](https://github.com/macrusso/node-express-restful-api)
 
-### Front-end [![Build Status](https://travis-ci.com/macrusso/blog-react-redux-saga-typescript.svg?branch=master)](https://travis-ci.com/macrusso/blog-react-redux-saga-typescript)
+### Front-end ![macrusso](https://circleci.com/gh/macrusso/blog-react-redux-saga-typescript.svg?style=svg)
 
 - [React Blog SPA](https://github.com/macrusso/blog-react-redux-saga-typescript)
 
