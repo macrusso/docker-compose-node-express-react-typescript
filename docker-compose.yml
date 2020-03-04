@@ -2,8 +2,8 @@ version: "3"
 
 services:
   api:
-    env_file:
-      - ./services/api/.env
+    env_file: ./services/api/.env
+    restart: on-failure
     build: ./services/api
     ports:
       - "8080:8080"
