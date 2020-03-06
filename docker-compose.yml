@@ -20,3 +20,10 @@ services:
     ports:
       - "27017:27017"
     container_name: blog-db
+    volumes: database:/data/db
+  vc_db:
+    image: mongo
+    volumes: database:/data/db
+
+volumes:
+  database:
