@@ -10,9 +10,10 @@
 
 ### Data Base
 
-- MongoDB
+- MongoDB - persistent storage in Docker using Volume Container Pattern
 
 # Installation
 
 - Clone the repo and `cd blog-react-redux-saga-typescript`
 - Run `git submodule update --init --recursive`
+- Run `docker-compose up --build`
